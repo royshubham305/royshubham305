@@ -1,4 +1,4 @@
-# Shubham Roy
+# Shubham Yadav
 
 👋 Hello! I'm Shubham Yadav, a passionate B.Tech student with expertise in web development and multimedia content creation.
 
