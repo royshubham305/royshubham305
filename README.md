@@ -16,7 +16,7 @@
 ## 📫 Get in Touch  
 - **Google**: Search "royshubham305"  
 - **Collaboration**: Open to innovative web dev/content projects  
-- **Portfolio**: https://omntrix.netlify.app/  
+- **Portfolio**: https://omntrix.netlify.app  
 
 ## 🎯 Professional Summary  
 Dedicated B.Tech student with demonstrated experience in building responsive websites and creating engaging video content. Passionate about solving complex problems through technology, continuously expanding my skill set to deliver impactful digital solutions.  
